@@ -1,0 +1,16 @@
+digraph Tree {
+	Eliot, T. S. -> Chaucer, Geoffrey;
+	Eliot, T. S. -> Shakespeare, William;
+	Chaucer, Geoffrey -> Baldwin, James;
+	Chaucer, Geoffrey -> Dickinson, Emily;
+	Shakespeare, William -> Keats, John;
+	Shakespeare, William -> Woolf, Virginia;
+	Baldwin, James -> Austen, Jane;
+	Baldwin, James -> Brooks, Gwendolyn;
+	Dickinson, Emily -> Dickins, Charles;
+	Dickinson, Emily -> Eliot, George;
+	Keats, John -> Hughes, Langston;
+	Keats, John -> Milton, John;
+	Woolf, Virginia -> Stevens, Wallace;
+	Woolf, Virginia -> Wright, Richard;
+}
